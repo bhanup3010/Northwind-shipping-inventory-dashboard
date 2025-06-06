@@ -34,10 +34,10 @@ An interactive Power BI dashboard created to analyze and optimize shipping perfo
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Overview
-![Full Dashboard](assets/Full_dashboard.png)
+![Full Dashboard](Assets/Full_dashboard.png)
 
-### 🔹 Shipping by Region
-![Shipping by Region](assets/Products_Page.png)
+### 🔹 Products Pages
+![Products_Page](Assets/Products_Page.png)
 
 ---
 
